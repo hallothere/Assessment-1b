@@ -1,0 +1,52 @@
+
+.box {
+    width: 126px;
+    height: 126px;
+    display: inline-block;
+    float: left;
+}
+
+.gray {
+    background-color: gray;
+    border-color: gray;   
+}
+
+.orange {
+    background-color: orange;
+    border-color: orange; 
+    margin-right: 5px;
+}
+
+.black {
+    background-color: black;
+    border-color: black; 
+}
+
+.right {
+    margin-right: 5px;
+}
+
+.blue {
+    background-color: blue;
+    border-color: blue; 
+}
+
+.pink {
+    background-color: pink;
+    border-color: pink; 
+}
+
+.purple {
+    background-color: purple;
+    border-color: purple; 
+}
+
+.yellow {
+    background-color: yellow;
+    border-color: yellow; 
+}
+
+.green {
+    background-color: green;
+    border-color: green; 
+}
